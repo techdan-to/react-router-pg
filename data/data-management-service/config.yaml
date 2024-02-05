@@ -1,0 +1,14 @@
+title: DataManagment Service
+description: Some description # Specify that's for meta tags
+actionLinks:
+  - label: Git for Data
+    url: https://someting.com
+  - label: Manage Datasets
+    url: https://someting.com
+  - label: Manage Databases
+    url: https://someting.com
+externalLinks:
+  - label: Resources
+    url: https://someting.com
+  - label: Contact Us
+    url: https://someting.com

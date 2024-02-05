@@ -1,0 +1,20 @@
+news:
+  - title: Top Headline
+    description: Some description
+    ctaLabel: Read More
+    ctaUrl: https://someting.com
+  - title: Top Headline
+    description: Some description
+    ctaLabel: Read More
+    ctaUrl: https://someting.com
+  - title: Top Headline
+    description: Some description
+    ctaLabel: Read More
+    ctaUrl: https://someting.com
+  - title: Top Headline
+    description: Some description
+    ctaLabel: Read More
+    ctaUrl: https://someting.com
+data: # Possibly it can be an array
+  label: Unique users in January
+  value: "1,000"

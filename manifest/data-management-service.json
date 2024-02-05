@@ -1,0 +1,152 @@
+{
+  "benefits": [
+    {
+      "icon": "data_icon",
+      "title": "Data Security",
+      "description": "Data management services provide ...",
+      "ctaLabel": "Learn more",
+      "ctaUrl": "https://docs.data-sec.apple.com"
+    },
+    {
+      "icon": "data_icon",
+      "title": "Organization",
+      "description": "Data management services provide ...",
+      "ctaLabel": "Learn more",
+      "ctaUrl": "https://docs.data-sec.apple.com"
+    },
+    {
+      "icon": "data_icon",
+      "title": "Scaleability",
+      "description": "Data management services provide ...",
+      "ctaLabel": "Learn more",
+      "ctaUrl": "https://docs.data-sec.apple.com"
+    }
+  ],
+  "caseStudies": [
+    {
+      "icon": "data_icon",
+      "title": "Case Studies 1: Scenario Description",
+      "description": "Data management services provide ...",
+      "ctaLabel": "Learn more",
+      "ctaUrl": "https://docs.data-sec.apple.com"
+    },
+    {
+      "icon": "data_icon",
+      "title": "Case Studies 2: Scenario Description",
+      "description": "Data management services provide ...",
+      "ctaLabel": "Learn more",
+      "ctaUrl": "https://docs.data-sec.apple.com"
+    },
+    {
+      "icon": "data_icon",
+      "title": "Case Studies 3: Scenario Description",
+      "description": "Data management services provide ...",
+      "ctaLabel": "Learn more",
+      "ctaUrl": "https://docs.data-sec.apple.com"
+    }
+  ],
+  "config": {
+    "title": "DataManagment Service",
+    "description": "Some description",
+    "actionLinks": [
+      {
+        "label": "Git for Data",
+        "url": "https://someting.com"
+      },
+      {
+        "label": "Manage Datasets",
+        "url": "https://someting.com"
+      },
+      {
+        "label": "Manage Databases",
+        "url": "https://someting.com"
+      }
+    ],
+    "externalLinks": [
+      {
+        "label": "Resources",
+        "url": "https://someting.com"
+      },
+      {
+        "label": "Contact Us",
+        "url": "https://someting.com"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Data Management Service",
+    "subtitle": "Simplifying collaborative data management",
+    "description": "lorem ipsum dolor sit amet",
+    "content": {
+      "type": "video",
+      "url": "https://someting.com"
+    },
+    "heroCard": {
+      "title": "Get started",
+      "description": "Some description",
+      "ctaLabel": "Datasets",
+      "ctaUrl": "https://someting.com"
+    },
+    "documentation": [
+      {
+        "title": "Data Managment",
+        "url": "https://someting.com",
+        "description": "Some description"
+      },
+      {
+        "title": "Dataset Environment",
+        "url": "https://someting.com",
+        "description": "Some description"
+      },
+      {
+        "title": "Environment 101 in DMS",
+        "url": "https://someting.com",
+        "description": "Some description"
+      },
+      {
+        "title": "Starting Pathways",
+        "url": "https://someting.com",
+        "description": "Some description"
+      }
+    ]
+  },
+  "support": {
+    "title": "Need Support?",
+    "icon": "some_icon",
+    "description": "Some description",
+    "ctaLabel": "Get Help Here",
+    "ctaUrl": "https://someting.com"
+  },
+  "whatIsNew": {
+    "news": [
+      {
+        "title": "Top Headline",
+        "description": "Some description",
+        "ctaLabel": "Read More",
+        "ctaUrl": "https://someting.com"
+      },
+      {
+        "title": "Top Headline",
+        "description": "Some description",
+        "ctaLabel": "Read More",
+        "ctaUrl": "https://someting.com"
+      },
+      {
+        "title": "Top Headline",
+        "description": "Some description",
+        "ctaLabel": "Read More",
+        "ctaUrl": "https://someting.com"
+      },
+      {
+        "title": "Top Headline",
+        "description": "Some description",
+        "ctaLabel": "Read More",
+        "ctaUrl": "https://someting.com"
+      }
+    ],
+    "data": {
+      "label": "Unique users in January",
+      "value": "1,000"
+    }
+  }
+}
